@@ -1,6 +1,6 @@
-# Twitter clone Project
+# Twitter clone project
 
-This is a Twitter clone project that is built with react-redux.
+This is a Twitter clone project for the Udacity React Nanodegree Program that is built with react-redux.
 
 ## Project Setup
 
