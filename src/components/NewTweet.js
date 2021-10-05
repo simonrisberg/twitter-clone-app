@@ -30,7 +30,7 @@ class NewTweet extends Component {
   render() {
     const { text } = this.state
 
-    {/* todo: Redirect to the home view if submitted */ }
+    
 
     const tweetLeft = 280 - text.length
 
